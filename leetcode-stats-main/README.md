@@ -22,9 +22,4 @@ LeetStat is a web application that allows users to compare LeetCode profiles of 
 - **Database**: Firebase
 - **Deployment**: Vercel (frontend), Next API and server functions for backend
 
-## Developer
 
-- [Prakash Singh Rawat](https://prakash-rawat.verce.app/)
-- Contact me: prakashsinghrawatuk@gmail.com
-
- 
